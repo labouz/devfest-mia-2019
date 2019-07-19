@@ -1,4 +1,4 @@
-# DevFest New Orleans 2019 Website
+# DevFest Miami 2019 Website
 
 This website was created using [Next.js](https://nextjs.org/), a React starter for SSR or static sites. [Styled components](https://www.styled-components.com) is used for styling.
 
