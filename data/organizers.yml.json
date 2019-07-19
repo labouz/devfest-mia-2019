@@ -1,27 +1,23 @@
 [
   {
-    "id": "guzman",
-    "name": "Chris Guzman",
+    "id": "yahima",
+    "name": "Yahima Fumero",
     "image": "/static/guzman_500.jpg",
-    "bio": "Chris Guzman is an Android developer and recovering Rails developer. He co-organizes GDG New Orleans. A recent transplant from Baltimore, he loves board games and all types of comedy.",
-    "company": "Big Nerd Ranch",
-    "twitter": "speaktochris",
-    "github": "ChrisGuzman",
-    "website": "http://chris-guzman.com/",
-    "blog": "https://chrisguzman.svbtle.com/",
-    "linkedin": "https://www.linkedin.com/in/guzmantchris"
+    "bio": "Yahima is a co-founder of Cloud39 Corp. She co-organizes GDG GDG Cloud Miami and is a WTM Ambassador.",
+    "company": "Cloud39 Corp",
+    "twitter": "FumeroYahima",
+    "website": "https://cloud39.co/",
+    "linkedin": "https://www.linkedin.com/in/yahima-fumero-7a89359a/"
   },
   {
-    "id": "sia",
-    "name": "Sia Karamalegos",
+    "id": "layla",
+    "name": "Layla Bouzoubaa",
     "image": "/static/sia_500.jpg",
-    "bio": "Sia Karamalegos is the founder and lead developer for Clio + Calliope. She is a Google Developer Expert in Web Technologies, a Women Techmakers ambassador, and a co-organizer of GDG New Orleans.",
-    "company": "Clio + Calliope",
-    "twitter": "TheGreenGreek",
-    "github": "siakaramalegos",
-    "website": "https://siakaramalegos.github.io/",
-    "blog": "https://medium.com/clio-calliope",
-    "linkedin": "https://www.linkedin.com/in/karamalegos"
+    "bio": "Layla is a statistical programmer for the University of Miami Sylvester Comprehensive Cancer Center. Originally from Atlanta, Layla is a freshly transplanted Miamian and co-organizes R-Ladies Miami, a Women Techmakers ambassador, and a wannabe wine connoisseur.",
+    "company": "Sylvester Comprehensive Cancer Center",
+    "twitter": "bouzoula",
+    "github": "labouz",
+    "linkedin": "https://www.linkedin.com/in/layla-bouzoubaa-2a4aa247/"
   },
   {
     "id": "liv",
