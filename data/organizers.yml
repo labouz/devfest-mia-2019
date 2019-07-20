@@ -1,24 +1,25 @@
 - id: yahima
   name: Yahima Fumero
-  image: /static/guzman_500.jpg
-  bio: "Yahima is a co-founder of Cloud39 Corp. She co-organizes GDG GDG Cloud Miami and is a WTM Ambassador."
+  image: /static/yahima_500.jpg
+  bio: "Yahima is a co-founder of Cloud39 Corp. She co-organizes GDG Cloud Miami and is a WTM Ambassador."
   company: Cloud39 Corp
   twitter: FumeroYahima
   website: https://cloud39.co/
   linkedin: https://www.linkedin.com/in/yahima-fumero-7a89359a/
+  - id: jesus
+  name: Jesus Diaz
+  image: /static/jesus_500.jpeg
+  bio: "Jesus is a co-founder of Cloud39 Corp. He  co-organizes GDG Cloud Miami, is a Google Certified Cloud Architect and Google Certified Data Engineer."
+  company: Cloud39 Corp
+  twitter: cloud39_co
+  website: https://cloud39.co/
+  linkedin: https://www.linkedin.com/in/elyisu/
 - id: layla
   name: Layla Bouzoubaa
-  image: /static/sia_500.jpg
+  image: /static/layla_500.jpg
   bio: "Layla is a statistical programmer for the University of Miami Sylvester Comprehensive Cancer Center. Originally from Atlanta, Layla is a freshly transplanted Miamian and co-organizes R-Ladies Miami, a Women Techmakers ambassador, and a wannabe wine connoisseur."
   company: Sylvester Comprehensive Cancer Center
   twitter: bouzoula
   github: labouz
   linkedin: https://www.linkedin.com/in/layla-bouzoubaa-2a4aa247/
-- id: liv
-  name: Olivia Sabo-Rush
-  image: /static/liv_500.jpg
-  bio: "Liv is a New Orleans based software engineer. She co-organizes GDG New Orleans and #FrontEndParty, and has a passion for UI/UX."
-  company: iSeatz
-  github: livrush
-  website: http://pafiu.me
-  linkedin: https://www.linkedin.com/in/livrush
+
