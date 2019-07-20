@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components'
-import SkylineSvg from './nola-google-skyline.svg'
+import SkylineSvg from './mia_skyline.png'
 import theme from '../theme'
 
 const SectionContainer = styled.section`

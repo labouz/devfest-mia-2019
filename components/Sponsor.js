@@ -1,7 +1,7 @@
 const Sponsor = ({name, link, logo}) => {
   // Hack to get the /static/ folder to work for gh-pages. Set to true for gh-pages build
   const ghPages = false
-  const assetPrefix = ghPages ? '/devfest-nola-2019' : ''
+  const assetPrefix = ghPages ? '/devfest-miami-2019' : ''
   const img = `${assetPrefix}${logo}`
 
   return (

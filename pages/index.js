@@ -35,7 +35,7 @@ export default () => (
       <h1>September 28, 2019</h1>
       <p>DevFest Miami is a single-day, single-track, inclusive conference for all developers. GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our first annual DevFest! - Location TBA</p>
       <p className="cta">
-        <AnchorButton color='white/green' href="https://ti.to/gdg-new-orleans/devfest-new-orleans-2019" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
+        <AnchorButton color='white/green' href="https://www.meetup.com/GDG-Cloud-Miami/" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
       </p>
     </Section>
 
