@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components'
-import SkylineSvg from './mia_skyline.png'
+import SkylineSvg from './miami_skyline2.svg'
 import theme from '../theme'
 
 const SectionContainer = styled.section`
@@ -40,7 +40,7 @@ const Section = ({skyline, children, color}) => {
     return (
       <SectionContainer>
         <InnerSection>{children}</InnerSection>
-        <SkylineSvg style={{maxWidth:"960px"}} />
+        <SkylineSvg style={{maxWidth:"920px"}} />
       </SectionContainer>
     )
   }
