@@ -19,6 +19,6 @@ const MapContainer = styled.div`
 
 export default () => (
   <MapContainer>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3592.3533496270916!2d-80.14088834900942!3d25.79191431356278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b486f336a93f%3A0x2585d1955721aa04!2sWix.com!5e0!3m2!1sen!2sus!4v1563592781362!5m2!1sen!2sus" frameBorder="0" style={{ border: 0 }} allowFullScreen title="Google Maps Wix Office"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3593.164552374076!2d-80.23367904900967!3d25.765127814665796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88d9b487093a05d9%3A0x9eff32fb2acf9fda!2sTheVenture.city!5e0!3m2!1sen!2sus!4v1564014576708!5m2!1sen!2sus" frameBorder="0" style={{ border: 0 }} allowFullScreen title="The Venture.city"></iframe>
   </MapContainer>
 )

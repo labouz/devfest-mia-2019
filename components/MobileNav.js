@@ -94,7 +94,7 @@ class MobileMenu extends Component {
         </MobileTopNav>
         <MobileLinks className={this.state.isOpen ? 'is-visible' : 'is-hidden'}>
           <Link passHref href="/"><MobileNavLink onClick={this.closeMenu} >Home</MobileNavLink></Link>
-          <Link passHref href="/#speakers"><MobileNavLink onClick={this.closeMenu} >Speakers</MobileNavLink></Link>
+          <Link passHref href="/#agenda"><MobileNavLink onClick={this.closeMenu} >Agenda</MobileNavLink></Link>
           <Link passHref href="/#sponsors"><MobileNavLink onClick={this.closeMenu} >Sponsors</MobileNavLink></Link>
           <Link passHref href="/venue"><MobileNavLink onClick={this.closeMenu} >Venue</MobileNavLink></Link>
           <Link passHref href="/conduct"><MobileNavLink onClick={this.closeMenu} >Code of Conduct</MobileNavLink></Link>

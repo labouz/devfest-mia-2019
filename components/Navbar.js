@@ -55,7 +55,7 @@ export const Navbar = () => {
         <StaticLogo />
         <NavLinks>
           <Link passHref href="/"><StyledLink>Home</StyledLink></Link>
-          <Link passHref href="/#speakers"><StyledLink>Speakers</StyledLink></Link>
+          <Link passHref href="/#agenda"><StyledLink>Agenda</StyledLink></Link>
           <Link passHref href="/#sponsors"><StyledLink>Sponsors</StyledLink></Link>
           <Link passHref href="/venue"><StyledLink>Venue</StyledLink></Link>
           <Link passHref href="/conduct"><StyledLink>Code of Conduct</StyledLink></Link>
