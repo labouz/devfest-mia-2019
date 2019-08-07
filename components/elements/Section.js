@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components'
-import SkylineSvg from './rladies_mia.svg'
+import SkylineSvg from './mia5.svg'
 import theme from '../theme'
 
 const SectionContainer = styled.section`
@@ -25,12 +25,12 @@ const SectionContainer = styled.section`
 `
 
 const InnerSection =  styled.div`
-  max-width: 920px;
+  max-width: 1100px;
   margin: 4em 0;
-  width: 92%;
+  width: 100%;
   h1 {
     font-size: 2em;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
   }
   p.cta { margin-top: 40px; }
 `
@@ -40,7 +40,7 @@ const Section = ({skyline, children, color}) => {
     return (
       <SectionContainer>
         <InnerSection>{children}</InnerSection>
-        <SkylineSvg style={{maxWidth:"920px"}} />
+        <SkylineSvg style={{maxWidth:"1100px"}} />
       </SectionContainer>
     )
   }
