@@ -4,7 +4,7 @@ const fs = require('fs')
 const inputFiles = [
   './data/speakers.yml',
   './data/schedule.yml',
-  './data/mc.yml',
+  './data/kn.yml',
   './data/sponsors.yml',
   './data/organizers.yml',
 ]

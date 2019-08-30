@@ -7,6 +7,12 @@ import SponsorList from "../components/SponsorList";
 import GDGLogo from '../components/icons/gdg_logo.svg'
 import Footer from '../components/Footer';
 import Anchor from '../components/elements/Anchor';
+import Schedule from '../components/Schedule';
+import Keynote from '../components/Keynote';
+import Tito from '../components/Tito';
+const speakers = require('../data/speakers.yml.json')
+const keynote = require('../data/kn.yml.json')[0]
+const schedule = require('../data/schedule.yml.json')
 const organizers = require('../data/organizers.yml.json')
 const sponsors = require('../data/sponsors.yml.json')
 
@@ -35,22 +41,30 @@ export default () => (
       <h1>September 28, 2019</h1>
       <p>DevFest Miami is a single-day, single-track, inclusive conference for all developers. GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our annual DevFest at the Wix.com offices in South Beach!</p>
       <p className="cta">
-        <AnchorButton color='white/green' href="https://www.meetup.com/GDG-Cloud-Miami/" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
-      </p>
-    </Section>
-
-    <Section color="blue">
-      <OffsetHeading id="speakers">Speakers &amp; Talks</OffsetHeading>
-      <p>We are looking for speakers to deliver innovative talks in web, mobile, UI/UX, cloud, emerging technologies and more. Got a talk idea? We want to hear from you!</p>
-      <p className="cta">
-        <AnchorButton color="white/blue" href="mailto:layla.bzb@gmail.com" target="_blank" rel="noopener noreferrer">Send us your talk!</AnchorButton>
+        <AnchorButton color='white/green' href="https://www.eventbrite.com/e/devfest-miami-2019-tickets-68635601933?aff=ehomesaved" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
       </p>
     </Section>
 
     <Section>
+      <OffsetHeading id="keynote">Keynotes</OffsetHeading>
+      <Keynote {...keynote} />
+    </Section >
+
+    <Section>
+      <OffsetHeading id="speakers">Speakers</OffsetHeading>
+      <PersonList people={speakers} rainbow />
+    </Section>
+
+    <Section color="blue">
+      <OffsetHeading id="schedule">Schedule</OffsetHeading>
+      <Schedule schedule={schedule} />
+    </Section >
+
+    <Section>
       <OffsetHeading id="sponsors">Sponsors</OffsetHeading>
+      <p>We would like to thank the following entities for their generous sponsorship and continued support!</p> 
       <SponsorList sponsors={sponsors} />
-      <p>Sponsorship offers marketing exposure, hiring help, and adoration from our community, and can be in-kind (space, drinks, volunteers, swag, etc.) or monetary. Interested in becoming a sponsor? Contact us today:</p>
+      <p>Interested in becoming a sponsor? Contact us today:</p>
       <p className="cta">
         <AnchorButton href="mailto:layla.bzb@gmail.com" target="_blank" rel="noopener noreferrer">Become a sponsor</AnchorButton>
       </p>

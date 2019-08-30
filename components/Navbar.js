@@ -55,11 +55,12 @@ export const Navbar = () => {
         <StaticLogo />
         <NavLinks>
           <Link passHref href="/"><StyledLink>Home</StyledLink></Link>
-          <Link passHref href="/agenda"><StyledLink>Agenda</StyledLink></Link>
+          <Link passHref href="/#speakers"><StyledLink>Speakers</StyledLink></Link>
+          <Link passHref href="/#schedule"><StyledLink>Talks</StyledLink></Link>
           <Link passHref href="/#sponsors"><StyledLink>Sponsors</StyledLink></Link>
-          <Link passHref href="/venue"><StyledLink>Venue</StyledLink></Link>
+          <Link passHref href="/location"><StyledLink>Location</StyledLink></Link>
           <Link passHref href="/conduct"><StyledLink>Code of Conduct</StyledLink></Link>
-          <AnchorButton href="https://www.meetup.com/GDG-Cloud-Miami/" medium="true" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
+          <AnchorButton href="https://www.eventbrite.com/e/devfest-miami-2019-tickets-68635601933?aff=ehomesaved" medium="true" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
         </NavLinks>
       </NavDesktopContainer>
       <MobileMenu />
