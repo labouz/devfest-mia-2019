@@ -7,18 +7,31 @@ const List = styled.div`
   align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  width: auto;
+  height: auto;
 `
 
-const SponsorList = ({ sponsors }) => {
-  const sponsorList = sponsors.map(sponsor => (
+const getSponsorList = (sponsors) => (
+  sponsors.map(sponsor => (
     <Sponsor {...sponsor} key={sponsor.id} />
   ))
+)
 
-  return (
-    <div>
-      {sponsorList}
-    </div>
-  )
-}
+const SponsorList = ({ sponsors }) => (
+  <Fragment>
+    <List>
+      {getSponsorList(sponsors.platinum)}
+    </List>
+    <List>
+      {getSponsorList(sponsors.gold)}
+    </List>
+    <List>
+      {getSponsorList(sponsors.silver)}
+    </List>
+    <List>
+      {getSponsorList(sponsors.bronze)}
+    </List>
+  </Fragment>
+)
 
 export default SponsorList

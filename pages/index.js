@@ -11,7 +11,7 @@ import Schedule from '../components/Schedule';
 import Keynote from '../components/Keynote';
 import Tito from '../components/Tito';
 const speakers = require('../data/speakers.yml.json')
-const keynote = require('../data/kn.yml.json')[0]
+const keynote = require('../data/kn.yml.json')
 const schedule = require('../data/schedule.yml.json')
 const organizers = require('../data/organizers.yml.json')
 const sponsors = require('../data/sponsors.yml.json')
@@ -47,8 +47,11 @@ export default () => (
 
     <Section>
       <OffsetHeading id="keynote">Keynotes</OffsetHeading>
-      <Keynote {...keynote} />
+      <Keynote {...keynote[0]} />
+      <br></br>
+      <Keynote {...keynote[1]} />
     </Section >
+    
 
     <Section>
       <OffsetHeading id="speakers">Speakers</OffsetHeading>

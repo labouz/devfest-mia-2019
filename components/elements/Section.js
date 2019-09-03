@@ -30,7 +30,7 @@ const InnerSection =  styled.div`
   width: 100%;
   h1 {
     font-size: 2em;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
   }
   p.cta { margin-top: 40px; }
 `

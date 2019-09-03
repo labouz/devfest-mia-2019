@@ -18,10 +18,11 @@ const StyledDiv = styled.div`
   svg:hover { fill: ${theme.colors.blueLight}; }
 `
 
-const Keynote = ({name, company, bio, image, github, twitter, linkedin, website, blog}) => (
+const Keynote = ({name, title, company, bio, image, github, twitter, linkedin, website, blog}) => (
   <StyledDiv>
     <ProfileImage src={image} alt={name} />
     <h2>{name}</h2>
+    <h3><i>{title}</i></h3>
     <h3>{company}</h3>
     <p dangerouslySetInnerHTML={{ __html: bio }}></p>
     <p>

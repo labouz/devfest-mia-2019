@@ -1,30 +1,46 @@
-[
-  {
-    "id": "google",
-    "name": "Google",
-    "link": "https://developers.google.com/programs/community/",
-    "logo": "/static/googlelogo.png",
-    "width": "270px"
-  },
-  {
-    "id": "sylvester",
-    "name": "Sylvester Comprehensive Cancer Center",
-    "link": "https://umiamihealth.org/sylvester-comprehensive-cancer-center",
-    "logo": "/static/Sylvester_cmyk.png",
-    "width": "270px"
-  },
-  {
-    "id": "wix",
-    "name": "Wix.com",
-    "link": "https://wix.com",
-    "logo": "/static/wix.png",
-    "width": "270px"
-  },
-  {
-    "id": "getaround",
-    "name": "Get Around",
-    "link": "https://www.getaround.com/",
-    "logo": "/static/ga.png",
-    "width": "270px"
-  }
-]
+{
+  "platinum": [
+    {
+      "id": "google",
+      "name": "Google",
+      "link": "https://developers.google.com/programs/community/",
+      "logo": "/static/googlelogo.png",
+      "tier": "platinum",
+      "width": "270px"
+    }
+  ],
+  "gold": [
+    {
+      "id": "sylvester",
+      "name": "Sylvester Comprehensive Cancer Center",
+      "link": "https://umiamihealth.org/sylvester-comprehensive-cancer-center",
+      "logo": "/static/Sylvester_cmyk.png",
+      "width": "270px"
+    }
+  ],
+  "silver": [
+    {
+      "id": "wix",
+      "name": "Wix.com",
+      "link": "https://wix.com",
+      "logo": "/static/wix.png",
+      "width": "200px"
+    }
+  ],
+  "bronze": [
+    {
+      "id": "getaround",
+      "name": "Get Around",
+      "link": "https://www.getaround.com/",
+      "logo": "/static/ga.png",
+      "width": "200px"
+    },
+    {
+      "id": "wtm",
+      "name": "Women Techmakers",
+      "link": "https://www.womentechmakers.com/",
+      "logo": "/static/wtm.png",
+      "width": "250px"
+    }
+  ]
+}

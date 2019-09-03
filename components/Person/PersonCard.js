@@ -20,7 +20,7 @@ const StyledImg = styled.img`
   width: 150px;
 `
 
-const PersonCard = ({name, image, bio, company, twitter, github, linkedin, website, blog}) => {
+const PersonCard = ({name, image, bio, title, company, twitter, github, linkedin, website, blog}) => {
   // Hack to get the /static/ folder to work for gh-pages. Set to true for gh-pages build
   const ghPages = false
   const assetPrefix = ghPages ? '/devfest-nola-2019' : ''
@@ -30,6 +30,7 @@ const PersonCard = ({name, image, bio, company, twitter, github, linkedin, websi
     <StyledCard className="card">
       <StyledImg src={img} alt={name} />
       <h1>{name}</h1>
+      <h2><i>{title}</i></h2>
       <h2>{company}</h2>
       <p>{bio}</p>
       <p>
