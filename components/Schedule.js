@@ -36,21 +36,45 @@ const SpeakerLink = styled.a`
   }
 `
 
-const Event = ({ title, date, speaker, speakerId, description, htmlDescription}) => (
-  <Article>
-    <Time>{date}</Time>
-    <div>
-      <Title>{title}</Title>
-      { !!speaker && <Link passHref href={`/#${speakerId}`}>
-        <SpeakerLink>
-          <Speaker>{speaker}</Speaker>
-        </SpeakerLink>
-      </Link>}
-      {!!description && <p>{description}</p>}
-      {!!htmlDescription && <p dangerouslySetInnerHTML={{ __html: htmlDescription }}></p> }
-    </div>
-  </Article>
-)
+const Track = ({name, date, title, speaker, speakerId, description}) => {
+  return (
+    <Article>
+      <Time>{date}</Time>
+      <div>
+        <Title>{title}</Title>
+        {!!speaker && <Link passHref href={`/#${speakerId}`}>
+          <SpeakerLink>
+            <Speaker>{speaker}</Speaker>
+          </SpeakerLink>
+        </Link>}
+        {!!description && <p>{description}</p>}
+      </div>
+    </Article>
+  )
+}
+
+const Event = ({title, date, speaker, speakerId, description, tracks, htmlDescription}) => {
+  const trackItems = tracks != null ? tracks.map(track => {
+    return <Track {...track} key={track.id}/>
+  }) : <div></div>
+
+  return (
+    <Article>
+      <Time>{date}</Time>
+      <div>
+        <Title>{title}</Title>
+        {!!speaker && <Link passHref href={`/#${speakerId}`}>
+          <SpeakerLink>
+            <Speaker>{speaker}</Speaker>
+          </SpeakerLink>
+        </Link>}
+        {!!description && <p>{description}</p>}
+        {trackItems}
+        {!!htmlDescription && <p dangerouslySetInnerHTML={{__html: htmlDescription}}></p>}
+      </div>
+    </Article>
+  )
+}
 
 const Schedule = ({schedule}) => {
   const scheduleItems = schedule.map(event => (

@@ -1,48 +1,81 @@
 [
   {
+    "id": 1,
     "date": "09:00 am",
     "title": "Registration and Breakfast",
-    "description": "Find our volunteers at the registration table, get a badge and a schedule, and join us for a scrumptious breakfast! Those who wish to participate in the \"#IamRemarkable\" Workshop must sign up at registration as space is limited. \n"
+    "description": "Find our volunteers at the registration table, get a badge and a schedule, and join us for a scrumptious breakfast! Those who wish to participate in the \"#IamRemarkable\" Workshop must sign up at registration as space is limited.\n"
   },
   {
+    "id": 2,
     "date": "10:00 am",
     "title": "Welcome Address",
     "speaker": "GDG Cloud Miami & GDG Miami",
     "description": "Welcome to DevFest Miami 2019! During this time, we will do introductions and go over the logistics for the day.\n"
   },
   {
+    "id": 3,
     "date": "10:15 am",
     "title": "Building Apps Like You Mean It - How to make sure that everyone can use your product, regardless of ability.",
     "speaker": "Claudio Luis Vera",
     "description": "Confessions and advice from a web designer / developer / empath on his journey to becoming an accessibility expert."
   },
   {
+    "id": 4,
     "date": "11:15 am",
     "title": "TBA",
     "speaker": "Keynote 2 - TBA!",
     "description": "Candy canes cake pudding. Soufflé cake chocolate bar chocolate cake chocolate cake cheesecake cupcake cupcake muffin. Jujubes liquorice sesame snaps pie. Caramels pudding tiramisu jelly-o dragée pie tootsie roll. Macaroon candy halvah tart. Lollipop croissant pie tootsie roll bear claw bear claw donut ice cream. Gummies chupa chups sugar plum cupcake tiramisu candy canes danish wafer. Bonbon candy powder dessert muffin lemon drops. Bonbon brownie cotton candy topping donut ice cream jujubes soufflé.\n"
   },
   {
+    "id": 5,
     "date": "12:15 pm",
     "title": "Mingle Lunch",
-    "description": "Enjoy a healthy lunch sponsored Sylvester Comprehensive Cancer Center while mingling with other attendees and speakers. \n"
+    "description": "Enjoy a healthy lunch sponsored Sylvester Comprehensive Cancer Center while mingling with other attendees and speakers.\n"
   },
   {
+    "id": 6,
     "date": "1:00 pm",
     "title": "Track Talks",
-    "description": "Attend a talk in one of three tracks!\n  - Track A: Google Cloud Platform (GCP)\n    - date: 1:00 pm\n      title: How to become a Google Certified Data Engineer \n      speaker: Daniel Cadenas\n      description: >\n        My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n  - Track B: Data Science\n  - Track C: Web/App Development\n"
+    "description": "Attend a talk in one of three tracks!",
+    "tracks": [
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "id": "A",
+        "date": "1:00 pm",
+        "title": "How to become a Google Certified Data Engineer",
+        "speaker": "Daniel Cadenas",
+        "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+      },
+      {
+        "name": "Data Science",
+        "id": "B",
+        "date": "1:00 pm",
+        "title": "How to become a Google Certified Data Engineer",
+        "speaker": "Daniel Cadenas"
+      },
+      {
+        "name": "Web/App Development",
+        "id": "C",
+        "date": "1:00 pm",
+        "title": "How to become a Google Certified Data Engineer",
+        "speaker": "Daniel Cadenas"
+      }
+    ]
   },
   {
+    "id": 7,
     "date": "3:15 pm",
     "title": "Raffle!",
     "description": "The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase 1 (or many!) to increase your chances of winning one of several Google prizes!\n"
   },
   {
+    "id": 8,
     "date": "3:30 pm",
     "title": "Workshops",
     "description": "Attend one of the three hands-on workshops below!\n  - GCP:\n  - IOT:\n  - \"#IamRemarkable\":\n"
   },
   {
+    "id": 9,
     "date": "4:00pm - 6:00 pm",
     "title": "Closing & Happy Hour!",
     "description": "Thank you and closing remarks made by GDG Cloud and GDG Miami. Stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)\n"
