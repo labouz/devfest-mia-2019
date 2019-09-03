@@ -18,7 +18,7 @@ const StyledLink = styled.a`
 `
 
 const Nav = styled.nav`
-  background: white;
+  background: rgba(255,255,255,0.97);
   position: fixed;
   top: 0;
   width: 100%;
