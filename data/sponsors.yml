@@ -39,5 +39,5 @@ bronze:
   - id: gwc  
     name: Girls Who Code
     link: https://girlswhocode.com/
-    logo: /static/gwc.png
+    logo: /static/gwc.jpg
     width: 250px

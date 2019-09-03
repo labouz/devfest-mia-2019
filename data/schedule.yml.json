@@ -31,5 +31,20 @@
     "date": "1:00 pm",
     "title": "Track Talks",
     "description": "Attend a talk in one of three tracks!\n  - Track A: Google Cloud Platform (GCP)\n    - date: 1:00 pm\n      title: How to become a Google Certified Data Engineer \n      speaker: Daniel Cadenas\n      description: >\n        My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n  - Track B: Data Science\n  - Track C: Web/App Development\n"
+  },
+  {
+    "date": "3:15 pm",
+    "title": "Raffle!",
+    "description": "The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase 1 (or many!) to increase your chances of winning one of several Google prizes!\n"
+  },
+  {
+    "date": "3:30 pm",
+    "title": "Workshops",
+    "description": "Attend one of the three hands-on workshops below!\n  - GCP:\n  - IOT:\n  - \"#IamRemarkable\":\n"
+  },
+  {
+    "date": "4:00pm - 6:00 pm",
+    "title": "Closing & Happy Hour!",
+    "description": "Thank you and closing remarks made by GDG Cloud and GDG Miami. Stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)\n"
   }
 ]

@@ -48,6 +48,13 @@
       "link": "https://iamremarkable.withgoogle.com/",
       "logo": "/static/iar.png",
       "width": "250px"
+    },
+    {
+      "id": "gwc",
+      "name": "Girls Who Code",
+      "link": "https://girlswhocode.com/",
+      "logo": "/static/gwc.jpg",
+      "width": "250px"
     }
   ]
 }
