@@ -24,7 +24,7 @@
       "name": "Wix.com",
       "link": "https://wix.com",
       "logo": "/static/wix.png",
-      "width": "200px"
+      "width": "270px"
     }
   ],
   "bronze": [
@@ -40,6 +40,13 @@
       "name": "Women Techmakers",
       "link": "https://www.womentechmakers.com/",
       "logo": "/static/wtm.png",
+      "width": "250px"
+    },
+    {
+      "id": "iar",
+      "name": "IamRemarkable",
+      "link": "https://iamremarkable.withgoogle.com/",
+      "logo": "/static/iar.png",
       "width": "250px"
     }
   ]

@@ -33,3 +33,20 @@
             My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
       - Track B: Data Science
       - Track C: Web/App Development
+- date: 3:15 pm
+  title: Raffle!
+  description: >
+    The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase 1 (or many!) to increase your chances of winning one of several Google prizes!
+- date: 3:30 pm
+  title: Workshops
+  description: >
+    Attend one of the three hands-on workshops below!
+      - GCP:
+      - IOT:
+      - "#IamRemarkable":
+- date: 4:00pm - 6:00 pm
+  title: Closing & Happy Hour!
+  description: >
+    Thank you and closing remarks made by GDG Cloud and GDG Miami. Stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)
+
+    
