@@ -1,7 +1,7 @@
 - id: dc
   name: Daniel Cadenas
   image: /static/bot_500.jpg
-  bio: Daniel Cadenas is a computer engineer with 20+ year of experience in Business Intelligence, Data Warehousing, and Big Data. Currently, working as a Big Data Engineer at Ultimate Software, he is involved in building applications using Spark and Hadoop. Also, Daniel posses several certifications such as Cloudera Administration and Google Professional Data Engineer. Daniel is a Data Scientist enthusiast with hands-on experience with machine learning and deep learning. 
+  bio: Daniel Cadenas is a computer engineer with 20+ year of experience in Business Intelligence, Data Warehousing, and Big Data. Currently, working as a Big Data Engineer at Ultimate Software, he is involved in building applications using Spark and Hadoop. Also, Daniel posses several certifications such as Cloudera Administration and Google Professional Data Engineer. Daniel is a Data Scientist enthusiast with hands-on experience with machine learning and deep learning.
   company: Ultimate Software
   linkedin: https://www.linkedin.com/in/danielcadenas/
 
@@ -16,7 +16,7 @@
 - id: kk
   name: Kimoy Kotun
   image: /static/kk3.jpg
-  bio: Kimoy's background is in Mathematics. She has been working as a Data Scientist for over a year. She enjoys using data to solve problems. 
+  bio: Kimoy's background is in Mathematics. She has been working as a Data Scientist for over a year. She enjoys using data to solve problems.
   company: Spirit Airlines
   linkedin: gathttps://www.linkedin.com/in/kimoy-williams-kotun-405714a4sbyjs
 
@@ -35,7 +35,7 @@
   bio: Viviana is Data Scientist at Zimmerman Advertising. MS in Data Science with a background in mathematics and journalism.
   company: Zimmerman Advertising
   linkedin: https://www.linkedin.com/in/vivianamarquez/
-  
+
 - id: kka
   name: Kavin Kannan
   image: /static/kka_500.jpg
@@ -49,13 +49,12 @@
   image: /static/rv.jpg
   bio: Roly is a technology and data nerd who earned his BS and MS in Computer Science from Florida International University. He has been working in South Florida tech in various engineering roles for the last 10 years, having worked at Ultimate Software, Magic Leap, and currently at TaxFyle.
   company: Taxfyle
-  linkedin: https://www.linkedin.com/in/rolyvicaria/ 
-  
-- id: dc
+  linkedin: https://www.linkedin.com/in/rolyvicaria/
+
+- id: dcox
   name: Danielle Cox
   image: /static/bot_500.jpg
   bio: Flutter
   company: TBA
   linkedin: TBA
   twitter: TBA
-  
