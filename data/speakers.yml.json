@@ -2,7 +2,7 @@
   {
     "id": "dc",
     "name": "Daniel Cadenas",
-    "image": "/static/bot_500.jpg",
+    "image": "/static/dcad.jpg",
     "bio": "Daniel Cadenas is a computer engineer with 20+ year of experience in Business Intelligence, Data Warehousing, and Big Data. Currently, working as a Big Data Engineer at Ultimate Software, he is involved in building applications using Spark and Hadoop. Also, Daniel posses several certifications such as Cloudera Administration and Google Professional Data Engineer. Daniel is a Data Scientist enthusiast with hands-on experience with machine learning and deep learning.",
     "company": "Ultimate Software",
     "linkedin": "https://www.linkedin.com/in/danielcadenas/"
@@ -62,10 +62,9 @@
   {
     "id": "dcox",
     "name": "Danielle Cox",
-    "image": "/static/bot_500.jpg",
-    "bio": "Flutter",
+    "image": "/static/dc_500.jpg",
+    "bio": "Danielle Cox has been developing for 35 years. She is currently being paid mostly for Kotlin/PHP coding, but has convinced her company to use Flutter going forward. After being invited to Google I/O, she has launched the Flutterfly YouTube channel hoping to convert even more people.",
     "company": "TBA",
-    "linkedin": "TBA",
-    "twitter": "TBA"
+    "blog": "https://www.youtube.com/user/imafiguresk8r/featured"
   }
 ]
