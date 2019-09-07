@@ -11,6 +11,12 @@ gold:
     link: https://umiamihealth.org/sylvester-comprehensive-cancer-center
     logo: /static/Sylvester_cmyk.png
     width: 270px
+
+  - id: ctsi  
+    name: UM Clinical & Translational Science Institute
+    link: http://miamictsi.org/
+    logo: /static/ctsi.png
+    width: 250px
 silver:
   - id: wix  
     name: Wix.com

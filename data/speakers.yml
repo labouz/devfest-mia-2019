@@ -58,3 +58,10 @@
   company: TBA
   blog: https://www.youtube.com/user/imafiguresk8r/featured
 
+- id: mz
+  name: Mash Zahid
+  image: /static/mz.jpg
+  bio:  Mash Zahid is a Strategy & Machine Learning Expert in the Business Talent Group marketplace. Predictive modeling skills with R and Python programming, Google, Azure & AWS cloud for connected algorithms & IoT. 
+  company: KPMG International
+  linkedin: https://www.linkedin.com/in/mashz/
+  twitter: MashZahid
