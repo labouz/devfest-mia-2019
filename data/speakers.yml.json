@@ -75,5 +75,21 @@
     "company": "KPMG International",
     "linkedin": "https://www.linkedin.com/in/mashz/",
     "twitter": "MashZahid"
+  },
+  {
+    "id": "dh",
+    "name": "Darlene Holland",
+    "image": "/static/dh.jpg",
+    "bio": "Passionate educator and life-long learner with extensive experience teaching Science at the middle school, high school, and college level. Currently working on Web Development using various programming languages.",
+    "company": "STEM Educator",
+    "linkedin": "https://www.linkedin.com/in/darlene-holland-m-ed-a2608876/"
+  },
+  {
+    "id": "yd",
+    "name": "Yasmary Hernandez Diaz",
+    "image": "/static/yz.jpg",
+    "bio": "Yasmary (aka Yaz) made the executive decision to become a programmer at the age of 9 when she deleted Windows 3.1 via DOS (and then deleted UnDelete). She is passionate about nurturing tech Communities as well as helping women, underrepresented groups, and students in tech. Yaz has tried over 1,400+ unique beers (= Beer Snob) and brews her own beer!",
+    "company": "Ultimate Software",
+    "linkedin": "https://www.linkedin.com/in/yasmaryhernandezdiaz/"
   }
 ]
