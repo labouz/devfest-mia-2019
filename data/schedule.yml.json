@@ -39,24 +39,64 @@
     "description": "Attend a talk in one of three tracks!",
     "tracks": [
       {
+        "name": "Google Cloud Platform (GCP)",
         "id": "A",
-        "date": "1:00 pm",
-        "title": "Google Cloud Platform (GCP)",
-        "description": "Talks showcasing the latest and greatest Google Cloud Platform products! - id: 1\n  date: 1:00 pm\n  speaker: Daniel Cadenas\n  description: >\n    My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+        "talks": [
+          {
+            "id": "A1",
+            "date": "1:00 pm",
+            "title": "How to become a Google Certified Data Engineer",
+            "speaker": "Daniel Cadenas",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          },
+          {
+            "id": "A2",
+            "date": "2:00 pm",
+            "title": "Talk 2",
+            "speaker": "Other speaker",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          }
+        ]
       },
       {
         "name": "Data Science",
         "id": "B",
-        "date": "1:00 pm",
-        "title": "Data Science",
-        "speaker": "Daniel Cadenas"
+        "talks": [
+          {
+            "id": "B1",
+            "date": "1:00 pm",
+            "title": "How to become a Google Certified Data Engineer",
+            "speaker": "Daniel Cadenas",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          },
+          {
+            "id": "B2",
+            "date": "2:00 pm",
+            "title": "Talk 2",
+            "speaker": "Other speaker",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          }
+        ]
       },
       {
         "name": "Web/App Development",
         "id": "C",
-        "date": "1:00 pm",
-        "title": "Web/App Development",
-        "speaker": "Daniel Cadenas"
+        "talks": [
+          {
+            "id": "C1",
+            "date": "1:00 pm",
+            "title": "How to become a Google Certified Data Engineer",
+            "speaker": "Daniel Cadenas",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          },
+          {
+            "id": "C2",
+            "date": "2:00 pm",
+            "title": "Talk 2",
+            "speaker": "Other speaker",
+            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+          }
+        ]
       }
     ]
   },
