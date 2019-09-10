@@ -16,8 +16,19 @@ const Time = styled.p`
   margin: 16px 0 0 0;
 `
 
+const Heading = styled.h3`
+  font-size: 1.2em;
+  margin: 40px 0 0 0;
+`
+
 const Title = styled.h3`
   font-size: 1.3em;
+  margin: 16px 0 0 0;
+`
+
+const SubTitle = styled.h4`
+  font-size: 1.1em;
+  opacity: 0.9;
   margin: 16px 0 0 0;
 `
 
@@ -25,6 +36,7 @@ const Speaker = styled.h4`
   font-size: 1.1em;
   font-style: italic;
   font-weight: 400;
+  opacity: 0.7;
   margin: 8px 0 0 0;
 `
 
@@ -36,12 +48,12 @@ const SpeakerLink = styled.a`
   }
 `
 
-const Track = ({name, date, title, speaker, speakerId, description}) => {
+const Talk = ({date, title, speaker, speakerId, description}) => {
   return (
     <Article>
       <Time>{date}</Time>
       <div>
-        <Title>{title}</Title>
+        <SubTitle>{title}</SubTitle>
         {!!speaker && <Link passHref href={`/#${speakerId}`}>
           <SpeakerLink>
             <Speaker>{speaker}</Speaker>
@@ -50,6 +62,19 @@ const Track = ({name, date, title, speaker, speakerId, description}) => {
         {!!description && <p>{description}</p>}
       </div>
     </Article>
+  )
+}
+
+const Track = ({name, talks}) => {
+  const talkItems = talks != null ? talks.map(talk => {
+    return <Talk {...talk} key={talk.id}/>
+  }) : <div></div>
+
+  return (
+    <div>
+      <Heading>{name}</Heading>
+      {talkItems}
+    </div>
   )
 }
 
@@ -78,7 +103,7 @@ const Event = ({title, date, speaker, speakerId, description, tracks, htmlDescri
 
 const Schedule = ({schedule}) => {
   const scheduleItems = schedule.map(event => (
-    <Event {...event} key={event.id} />
+    <Event {...event} key={event.id}/>
   ))
 
   return (

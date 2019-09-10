@@ -31,26 +31,51 @@
   title: Track Talks
   description: Attend a talk in one of three tracks!
   tracks:
-    - id: A
-      date: 1:00 pm
-      title: Google Cloud Platform (GCP)
-      description: >
-        Talks showcasing the latest and greatest Google Cloud Platform products!
-        - id: 1
+    - name: Google Cloud Platform (GCP)
+      id: A
+      talks:
+        - id: A1
           date: 1:00 pm
+          title: How to become a Google Certified Data Engineer
           speaker: Daniel Cadenas
+          description: >
+            My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
+        - id: A2
+          date: 2:00 pm
+          title: Talk 2
+          speaker: Other speaker
           description: >
             My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
     - name: Data Science
       id: B
-      date: 1:00 pm
-      title: Data Science
-      speaker: Daniel Cadenas
+      talks:
+        - id: B1
+          date: 1:00 pm
+          title: How to become a Google Certified Data Engineer
+          speaker: Daniel Cadenas
+          description: >
+            My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
+        - id: B2
+          date: 2:00 pm
+          title: Talk 2
+          speaker: Other speaker
+          description: >
+            My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
     - name: Web/App Development
       id: C
-      date: 1:00 pm
-      title: Web/App Development
-      speaker: Daniel Cadenas
+      talks:
+        - id: C1
+          date: 1:00 pm
+          title: How to become a Google Certified Data Engineer
+          speaker: Daniel Cadenas
+          description: >
+            My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
+        - id: C2
+          date: 2:00 pm
+          title: Talk 2
+          speaker: Other speaker
+          description: >
+            My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
 - id: 7
   date: 3:15 pm
   title: Raffle!
@@ -83,12 +108,12 @@
       description: >
         "#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. The workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to practice this skill."
 - id: 9
-  date: 4:00pm 
+  date: 4:00pm
   title: Happy Hour Begins!
   description: >
     For those not interested in attending a workshop, stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)
 - id: 10
-  date: 5:00pm 
+  date: 5:00pm
   title: Closing Remarks
   description: >
     Closing remarks by GDG Cloud Miami & GDG Miami. Happy Hour until 6pm!

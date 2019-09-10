@@ -28,7 +28,7 @@
     "id": "lb",
     "name": "Layla Bouzoubaa",
     "image": "/static/lb_500.jpg",
-    "bio": "Layla is a research analyst at the University of Miami Miller School of Medicine where she gets to combine her passion for R programming with cancer, substance abuse research, and behavioral health. She is also an D&I advocate, an organizer for R-Ladies Miami, and #IamRemarkable facilitator. Aside from her professional loves, she is an zealous plant-mom and a wannabe wine connoisseur and food critic.",
+    "bio": "Layla is a research analyst at the University of Miami Miller School of Medicine where she gets to combine her passion for R programming with cancer, substance abuse research, and behavioral health. She is also a D&I advocate, an organizer for R-Ladies Miami, and a #IamRemarkable facilitator. Aside from her professional loves, she is a zealous plant-mom and a wannabe wine connoisseur and food critic.",
     "company": "Sylvester Comprehensive Cancer Center",
     "linkedin": "https://www.linkedin.com/in/layla-bouzoubaa/",
     "twitter": "Bouzoulay",
@@ -65,7 +65,7 @@
     "image": "/static/dc_500.jpg",
     "bio": "Danielle Cox has been developing for 35 years. She is currently being paid mostly for Kotlin/PHP coding, but has convinced her company to use Flutter going forward. After being invited to Google I/O, she has launched the Flutterfly YouTube channel hoping to convert even more people.",
     "company": "TBA",
-    "blog": "https://www.youtube.com/user/imafiguresk8r/featured"
+    "website": "https://www.youtube.com/user/imafiguresk8r/featured"
   },
   {
     "id": "mz",
