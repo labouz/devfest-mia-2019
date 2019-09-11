@@ -38,5 +38,15 @@
     "twitter": "cesards",
     "github": "cesards",
     "linkedin": "https://www.linkedin.com/in/cesards"
+  },
+  {
+    "id": "farzad",
+    "name": "Farzad Barzin",
+    "image": "/static/fb_500.jpg",
+    "bio": "Farzad is a Full-stack Software Engineer at BEX Realty where he has been developing a mobile application for real estate agents using Flutter. He is also one of the organizers of GDG Miami.",
+    "company": "BEX Realty",
+    "twitter": "farzadbarzin",
+    "github": "fbarzin",
+    "linkedin": "https://www.linkedin.com/in/farzad-barzin-6450195a/"
   }
 ]
