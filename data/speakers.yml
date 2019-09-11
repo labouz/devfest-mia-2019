@@ -95,3 +95,18 @@
   bio: Ivy-educated Interventional Radiologist Physician / former Investment Banker & Quantitative Analyst at home in the operating room, AI lab, or boardroom. Stephan is a physician who understand the strategic, operational, and financial business needs of provider and insurer.
   company: Stephan M Borstelmann MD
   linkedin: https://www.linkedin.com/in/stephenborstelmann/
+
+- id: br
+  name: Brandon Roberts
+  image: /static/br.jpg
+  bio: Software Engineer at Chewy
+  company: Chewy
+  linkedin: https://www.linkedin.com/in/brandon-roberts-57480476/
+
+- id: cc
+  name: Carlos Chacin
+  image: /static/cc.jpg
+  bio: Learning in my free time. I make tools, guides, documentation, and live tutorials. 
+  company: MATRIX Labs
+  linkedin: https://www.linkedin.com/in/carlos-a-chacin/
+  github: Hermitter
