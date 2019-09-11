@@ -9,7 +9,7 @@
     "id": 2,
     "date": "10:00 am",
     "title": "Welcome Address",
-    "speaker": "GDG Cloud Miami & GDG Miami",
+    "speaker": "GDG Cloud Miami & GDG Miami & GWC SoFlo",
     "description": "Welcome to DevFest Miami 2019! During this time, we will do introductions and go over the logistics for the day.\n"
   },
   {
@@ -24,7 +24,7 @@
     "date": "11:15 am",
     "title": "TBA",
     "speaker": "Keynote 2 - TBA!",
-    "description": "Candy canes cake pudding. Soufflé cake chocolate bar chocolate cake chocolate cake cheesecake cupcake cupcake muffin. Jujubes liquorice sesame snaps pie. Caramels pudding tiramisu jelly-o dragée pie tootsie roll. Macaroon candy halvah tart. Lollipop croissant pie tootsie roll bear claw bear claw donut ice cream. Gummies chupa chups sugar plum cupcake tiramisu candy canes danish wafer. Bonbon candy powder dessert muffin lemon drops. Bonbon brownie cotton candy topping donut ice cream jujubes soufflé.\n"
+    "description": ""
   },
   {
     "id": 5,
@@ -36,7 +36,7 @@
     "id": 6,
     "date": "1:00 pm",
     "title": "Track Talks",
-    "description": "Attend a talk in one of three tracks!",
+    "description": "Attend a talk in one of three tracks! There will be a coffee & networking break after speaker 2 - between 2:05-2:25 pm.",
     "tracks": [
       {
         "name": "Google Cloud Platform (GCP)",
@@ -135,41 +135,55 @@
   },
   {
     "id": 9,
-    "date": "3:30 pm",
+    "date": "3:30 - 5:00 pm",
     "title": "Workshops",
-    "description": "Attend one of the three hands-on workshops below!",
+    "description": "Attend one of the three hands-on 90 - minute workshops below!",
     "tracks": [
       {
-        "name": "GCP",
+        "name": "Google Cloud Platform (GCP)",
         "id": "A",
-        "date": "3:30 pm",
-        "title": "GCP",
-        "Speaker": "Mash Zahid & Layla Bouzoubaa",
-        "description": "Leveraging GCP with BigQuery and TensorFlow 2.0 model dev pipelines for an Utilities CRM engagement for building an end-to-end model that also compares against an H2O ensemble model run, walk-through of Colab notebook.\n"
+        "talks": [
+          {
+            "id": "A1",
+            "date": "3:30 pm",
+            "title": "GCP",
+            "speaker": "Mash Zahid & Layla Bouzoubaa",
+            "description": "Leveraging GCP with BigQuery and TensorFlow 2.0 model dev pipelines for an Utilities CRM engagement for building an end-to-end model that also compares against an H2O ensemble model run, walk-through of Colab notebook.\n"
+          }
+        ]
       },
       {
-        "name": "IoT pt.1",
-        "id": "B1",
-        "date": "3:30 pm",
-        "title": "Augmenting the Google Assistant with the MATRIX Creator",
-        "Speaker": "Carlos Chacin",
-        "description": "Learn to set up Google Assistant on your MATRIX device. Interface with sensors and NFC!\n"
-      },
-      {
-        "name": "IoT pt.2",
-        "id": "B2",
-        "date": "4:30 pm",
-        "title": "Lighten Up with Arduino",
-        "Speaker": "Brandon Roberts",
-        "description": "Learn the basics for getting started with Arduino and create a light up project!\n"
+        "name": "IoT",
+        "id": "B",
+        "talks": [
+          {
+            "id": "B1",
+            "date": "3:30 pm",
+            "title": "IoT pt. 1 - Augmenting the Google Assistant with the MATRIX Creator",
+            "speaker": "Carlos Chacin",
+            "description": "Learn to set up Google Assistant on your MATRIX device. Interface with sensors and NFC!\n"
+          },
+          {
+            "id": "B2",
+            "date": "4:30 pm",
+            "title": "IoT pt. 2 - Lighten Up with Arduino",
+            "speaker": "Brandon Roberts",
+            "description": "Learn the basics for getting started with Arduino and create a light up project!\n"
+          }
+        ]
       },
       {
         "name": "#IamRemarkable",
         "id": "C",
-        "date": "3:30 pm",
-        "title": "#IamRemarkable",
-        "Speaker": "Yasmary Hernandez & Ruth Llanos-Vos",
-        "description": "\"#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. The workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to practice this skill.\"\n"
+        "talks": [
+          {
+            "id": "C1",
+            "date": "3:30 pm",
+            "title": "#IamRemarkable",
+            "speaker": "Yasmary Hernandez & Ruth Llanos-Vos",
+            "description": "\"#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. The workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to practice this skill.\"\n"
+          }
+        ]
       }
     ]
   },
@@ -183,6 +197,6 @@
     "id": 11,
     "date": "5:00pm",
     "title": "Closing Remarks",
-    "description": "Closing remarks by GDG Cloud Miami, GDG Miami, . Happy Hour until 6pm!\n"
+    "description": "Closing remarks by GDG Cloud Miami, GDG Miami, and Wix.com. Happy Hour until 6pm!\n"
   }
 ]
