@@ -11,7 +11,7 @@
     "id": "lc",
     "name": "Luis Casadesus",
     "image": "/static/bot_500.jpg",
-    "bio": "Courteous driver",
+    "bio": "I have been over 17 years of professional experience designing, developing, testing, implementing and maintaining software applications using Microsoft and Java technologies. Amazed by the simplicity of maintaining and implementing code using the cloud environment, I stay updated with the new tools and technologies related to this world. I strive to create a positive environment and a shared knowledge environment.I am a big sports fan, more talk / tv than practice them and my little son wait for me almost every afternoon after work to take a fight with Nerf/xshot guns.",
     "company": "Mi9 Retail",
     "twitter": "gatsbyjs",
     "github": "gatsbyjs"
@@ -90,6 +90,16 @@
     "image": "/static/yz.jpg",
     "bio": "Yasmary (aka Yaz) made the executive decision to become a programmer at the age of 9 when she deleted Windows 3.1 via DOS (and then deleted UnDelete). She is passionate about nurturing tech Communities as well as helping women, underrepresented groups, and students in tech. Yaz has tried over 1,400+ unique beers (= Beer Snob) and brews her own beer!",
     "company": "Ultimate Software",
-    "linkedin": "https://www.linkedin.com/in/yasmaryhernandezdiaz/"
+    "linkedin": "https://www.linkedin.com/in/yasmaryhernandezdiaz/",
+    "twitter": "EmpatheticTech",
+    "blog": "https://medium.com/@yasmary.hernandez"
+  },
+  {
+    "id": "rlv",
+    "name": "Ruth Llanos-Vos",
+    "image": "/static/rlv.jpg",
+    "bio": "blahblahblha",
+    "company": "Ultimate Software",
+    "linkedin": "https://www.linkedin.com/in/ruthllanos-vos/"
   }
 ]
