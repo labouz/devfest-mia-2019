@@ -51,10 +51,17 @@
           },
           {
             "id": "A2",
-            "date": "2:00 pm",
+            "date": "1:30 pm",
             "title": "Talk 2",
-            "speaker": "Other speaker",
-            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+            "speaker": "TBA",
+            "description": "TBA\n"
+          },
+          {
+            "id": "A3",
+            "date": "2:30 pm",
+            "title": "Building a CI/CD Pipeline With Cloud Run and Cloud Build",
+            "speaker": "Luis Casadesus",
+            "description": "Overview of Cloud Build. CI/CD tool. Lifecycle of a Cloud Build build. View your build results using the Gcloud tool. Overview of Cloud Run. Serverless computing a dvantages. Write a sample application, define the container, publish and deploy the app. Cloud Run on GKE.\n"
           }
         ]
       },
@@ -65,16 +72,23 @@
           {
             "id": "B1",
             "date": "1:00 pm",
-            "title": "How to become a Google Certified Data Engineer",
-            "speaker": "Daniel Cadenas",
-            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+            "title": "An Overview of Machine Learning and its Applications",
+            "speaker": "Kimoy Kotun",
+            "description": ""
           },
           {
             "id": "B2",
-            "date": "2:00 pm",
-            "title": "Talk 2",
-            "speaker": "Other speaker",
-            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+            "date": "1:30 pm",
+            "title": "Machine Learning using Radiology Imaging.",
+            "speaker": "Dr.Stephan Borstelmann",
+            "description": ""
+          },
+          {
+            "id": "B3",
+            "date": "2:30 pm",
+            "title": "Is it a Fire Pokemon or a Water Pokemon? Logistic Regression in Python",
+            "speaker": "Viviana Marquez, MSc.",
+            "description": ""
           }
         ]
       },
@@ -85,16 +99,23 @@
           {
             "id": "C1",
             "date": "1:00 pm",
-            "title": "How to become a Google Certified Data Engineer",
-            "speaker": "Daniel Cadenas",
-            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+            "title": "Site, Content, Action! - An Introduction to Google Assistant API for User Engagement",
+            "speaker": "Kavin Kannan",
+            "description": "Live Demo using the Assistant API\n"
           },
           {
             "id": "C2",
-            "date": "2:00 pm",
-            "title": "Talk 2",
-            "speaker": "Other speaker",
-            "description": "My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.\n"
+            "date": "1:30 pm",
+            "title": "Treating Infrastructure as Code - Implementing Terraform in CI/CD",
+            "speaker": "Roly Vicaria",
+            "description": ""
+          },
+          {
+            "id": "C3",
+            "date": "2:30 pm",
+            "title": "Flutter- Layout Strategies for the Android Programmer",
+            "speaker": "Danielle Cox",
+            "description": ""
           }
         ]
       }
@@ -102,52 +123,66 @@
   },
   {
     "id": 7,
+    "date": "2:05 pm - 2:25 pm",
+    "title": "Coffee and Refreshment Break!",
+    "description": "Enjoy and coffee, healthy snacks, and networking courtesy of Wix.com\n"
+  },
+  {
+    "id": 8,
     "date": "3:15 pm",
     "title": "Raffle!",
     "description": "The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase 1 (or many!) to increase your chances of winning one of several Google prizes!\n"
   },
   {
-    "id": 8,
+    "id": 9,
     "date": "3:30 pm",
     "title": "Workshops",
     "description": "Attend one of the three hands-on workshops below!",
     "tracks": [
       {
-        "name": "A",
+        "name": "GCP",
         "id": "A",
         "date": "3:30 pm",
         "title": "GCP",
-        "Speaker": "Cesar Diaz",
-        "description": "Someone teaches something cool in GCP\n"
+        "Speaker": "Mash Zahid & Layla Bouzoubaa",
+        "description": "Leveraging GCP with BigQuery and TensorFlow 2.0 model dev pipelines for an Utilities CRM engagement for building an end-to-end model that also compares against an H2O ensemble model run, walk-through of Colab notebook.\n"
       },
       {
-        "name": "B",
-        "id": "B",
+        "name": "IoT pt.1",
+        "id": "B1",
         "date": "3:30 pm",
-        "title": "IoT",
-        "Speaker": "Matrix Labs",
-        "description": "Someone teaches something cool in IoT\n"
+        "title": "Augmenting the Google Assistant with the MATRIX Creator",
+        "Speaker": "Carlos Chacin",
+        "description": "Learn to set up Google Assistant on your MATRIX device. Interface with sensors and NFC!\n"
       },
       {
-        "name": "C",
+        "name": "IoT pt.2",
+        "id": "B2",
+        "date": "4:30 pm",
+        "title": "Lighten Up with Arduino",
+        "Speaker": "Brandon Roberts",
+        "description": "Learn the basics for getting started with Arduino and create a light up project!\n"
+      },
+      {
+        "name": "#IamRemarkable",
         "id": "C",
         "date": "3:30 pm",
         "title": "#IamRemarkable",
-        "Speaker": "Yasmary Hernandez",
+        "Speaker": "Yasmary Hernandez & Ruth Llanos-Vos",
         "description": "\"#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. The workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to practice this skill.\"\n"
       }
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "date": "4:00pm",
     "title": "Happy Hour Begins!",
     "description": "For those not interested in attending a workshop, stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)\n"
   },
   {
-    "id": 10,
+    "id": 11,
     "date": "5:00pm",
     "title": "Closing Remarks",
-    "description": "Closing remarks by GDG Cloud Miami & GDG Miami. Happy Hour until 6pm!\n"
+    "description": "Closing remarks by GDG Cloud Miami, GDG Miami, . Happy Hour until 6pm!\n"
   }
 ]

@@ -71,8 +71,8 @@
     "id": "mz",
     "name": "Mash Zahid",
     "image": "/static/mz.jpg",
-    "bio": "Mash Zahid is a Strategy & Machine Learning Expert in the Business Talent Group marketplace. Predictive modeling skills with R and Python programming, Google, Azure & AWS cloud for connected algorithms & IoT.",
-    "company": "KPMG International",
+    "bio": "Mash Zahid is a management consultant who codes artificial intelligence systems that leverage sophisticated predictive, algorithmic methods to lead omni-channel growth in competitive markets. Mash has had successful strategy and Data Science engagements in recent years at Amgen, Subaru, Johnson & Johnson, Blue Cross Blue Shield, and hedge funds, among many others.",
+    "company": "Alinea Health",
     "linkedin": "https://www.linkedin.com/in/mashz/",
     "twitter": "MashZahid"
   },
@@ -87,7 +87,7 @@
   {
     "id": "yd",
     "name": "Yasmary Hernandez Diaz",
-    "image": "/static/yz.jpg",
+    "image": "/static/yz_500.jpg",
     "bio": "Yasmary (aka Yaz) made the executive decision to become a programmer at the age of 9 when she deleted Windows 3.1 via DOS (and then deleted UnDelete). She is passionate about nurturing tech Communities as well as helping women, underrepresented groups, and students in tech. Yaz has tried over 1,400+ unique beers (= Beer Snob) and brews her own beer!",
     "company": "Ultimate Software",
     "linkedin": "https://www.linkedin.com/in/yasmaryhernandezdiaz/",
@@ -98,8 +98,16 @@
     "id": "rlv",
     "name": "Ruth Llanos-Vos",
     "image": "/static/rlv.jpg",
-    "bio": "blahblahblha",
+    "bio": "Ruth is part of the Product and Strategy Team at Ultimate Software, a leading cloud provider of global HCM solutions. In her role as Vendor and Technical Manager she is responsible for the management of contract manufacturer vendors to build best in class UltiPro Time Collection Devices. Throughout her career she has always been an active member of diversity and inclusion groups, the latest being AnitaB.Org South Florida Liaison Women in Tech Leader. In addition, she is a Board Member of Latinas in Computing (AnitaB.org Systers Affinity Groups) and an #IamRemarkable facilitator.",
     "company": "Ultimate Software",
     "linkedin": "https://www.linkedin.com/in/ruthllanos-vos/"
+  },
+  {
+    "id": "sb",
+    "name": "Dr. Stephan Borstelmann",
+    "image": "/static/sb.jpg",
+    "bio": "Ivy-educated Interventional Radiologist Physician / former Investment Banker & Quantitative Analyst at home in the operating room, AI lab, or boardroom. Stephan is a physician who understand the strategic, operational, and financial business needs of provider and insurer.",
+    "company": "Stephan M Borstelmann MD",
+    "linkedin": "https://www.linkedin.com/in/stephenborstelmann/"
   }
 ]
