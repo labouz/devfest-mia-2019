@@ -64,15 +64,15 @@
     "name": "Danielle Cox",
     "image": "/static/dc_500.jpg",
     "bio": "Danielle Cox has been developing for 35 years. She is currently being paid mostly for Kotlin/PHP coding, but has convinced her company to use Flutter going forward. After being invited to Google I/O, she has launched the Flutterfly YouTube channel hoping to convert even more people.",
-    "company": "TBA",
+    "company": "Camp Cox Consultants",
     "website": "https://www.youtube.com/user/imafiguresk8r/featured"
   },
   {
     "id": "mz",
     "name": "Mash Zahid",
     "image": "/static/mz.jpg",
-    "bio": "Mash Zahid is a management consultant who codes artificial intelligence systems that leverage sophisticated predictive, algorithmic methods to lead omni-channel growth in competitive markets. Mash has had successful strategy and Data Science engagements in recent years at Amgen, Subaru, Johnson & Johnson, Blue Cross Blue Shield, and hedge funds, among many others.",
-    "company": "Alinea Health",
+    "bio": "Mash Zahid is a management consultant who codes artificial intelligence systems that leverage sophisticated predictive and prescriptive methods to deliver omni-channel growth in competitive global markets. Mash has had successful strategy and data science engagements in recent years at Amgen, Blue Cross Blue Shield, Gartner, Johnson & Johnson, Subaru, and hedge funds.",
+    "company": "Alinea",
     "linkedin": "https://www.linkedin.com/in/mashz/",
     "twitter": "MashZahid"
   },
@@ -100,14 +100,15 @@
     "image": "/static/rlv.jpg",
     "bio": "Ruth is part of the Product and Strategy Team at Ultimate Software, a leading cloud provider of global HCM solutions. In her role as Vendor and Technical Manager she is responsible for the management of contract manufacturer vendors to build best in class UltiPro Time Collection Devices. Throughout her career she has always been an active member of diversity and inclusion groups, the latest being AnitaB.Org South Florida Liaison Women in Tech Leader. In addition, she is a Board Member of Latinas in Computing (AnitaB.org Systers Affinity Groups) and an #IamRemarkable facilitator.",
     "company": "Ultimate Software",
-    "linkedin": "https://www.linkedin.com/in/ruthllanos-vos/"
+    "linkedin": "https://www.linkedin.com/in/ruthllanos-vos/",
+    "twitter": "RuthLLV"
   },
   {
     "id": "sb",
-    "name": "Dr. Stephan Borstelmann",
+    "name": "Dr. Stephen Borstelmann",
     "image": "/static/sb.jpg",
     "bio": "Ivy-educated Interventional Radiologist Physician / former Investment Banker & Quantitative Analyst at home in the operating room, AI lab, or boardroom. Stephan is a physician who understand the strategic, operational, and financial business needs of provider and insurer.",
-    "company": "Stephan M Borstelmann MD",
+    "company": "Stephen M Borstelmann MD",
     "linkedin": "https://www.linkedin.com/in/stephenborstelmann/"
   },
   {

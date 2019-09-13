@@ -13,7 +13,7 @@ const Layout = (props) => (
   <div>
     <Head>
       <title>DevFest Miami 2019</title>
-      <meta name="description" content="DevFest Miami is a single-day, single-track, inclusive conference for all developers.  GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our first annual DevFest! - Location TBA" />
+      <meta name="description" content="DevFest Miami is a single-day, three-track, inclusive conference for all developers. GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our annual DevFest!" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
       <meta property="og:image" content="http://devfest2019.gdgcloudmiami.com/static/share.jpg"/>
@@ -23,11 +23,11 @@ const Layout = (props) => (
       <meta name="twitter:card" content="summary_large_image"/>
       <meta name="twitter:site" content="@GDGMiami"/>
       <meta name="twitter:title" content="DevFest Miami 2019"/>
-      <meta name="twitter:description" content="DevFest Miami is a single-day, single-track, inclusive conference for all developers. GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our first annual DevFest! - Location TBA"/>
+      <meta name="twitter:description" content="DevFest Miami is a single-day, three-track, inclusive conference for all developers. GDG Cloud Miami and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our annual DevFest!"/>
       <meta name="twitter:creator" content="@GDGMiami"/>
-      <meta name="twitter:image" content="http://devfest2019.gdgcloudmiami.com/static/share.jpg"/>
+      <meta name="twitter:image" content="http://devfestmiami.org/static/share.jpg"/>
       <meta name="twitter:image:alt" content="Miami skyline" />
-      <meta name="twitter:domain" content="devfest2019.gdgcloudmiami.com"/>
+      <meta name="twitter:domain" content="devfestmiami.org"/>
 
       <link rel="preconnect" href="https://fonts.gstatic.com/" crossOrigin="true"></link>
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Product+Sans:400&amp;lang=en&amp;display=swap" rel="stylesheet"></link>

@@ -79,8 +79,8 @@
           {
             "id": "B2",
             "date": "1:30 pm",
-            "title": "Machine Learning using Radiology Imaging.",
-            "speaker": "Dr.Stephan Borstelmann",
+            "title": "Machine Learning using Radiology Imaging",
+            "speaker": "Dr.Stephen Borstelmann",
             "description": ""
           },
           {
@@ -106,16 +106,16 @@
           {
             "id": "C2",
             "date": "1:30 pm",
-            "title": "Treating Infrastructure as Code - Implementing Terraform in CI/CD",
+            "title": "CI/CD your infrastructure with Concourse and Terraform",
             "speaker": "Roly Vicaria",
-            "description": ""
+            "description": "I will be sharing a story that I imagine others might be able to relate to. It's the story of how I was asked to upgrade our cloud infrastructure because everyone else on the team was afraid to touch it. I'll show how I used Terraform to transform our team's approach to infrastructure and allow all engineers to fearlessly make changes as part of a CI/CD pipeline.\n"
           },
           {
             "id": "C3",
             "date": "2:30 pm",
             "title": "Flutter- Layout Strategies for the Android Programmer",
             "speaker": "Danielle Cox",
-            "description": ""
+            "description": "As Android programmers we have invested many hours into learning each new xml layout. Switching to a new paradigm/framework can be intimidating.  In this talk, we will go over strategies to creating layouts in Flutter comparing and contrasting them with the traditional Android ways.\n"
           }
         ]
       }
@@ -147,8 +147,8 @@
             "id": "A1",
             "date": "3:30 pm",
             "title": "GCP",
-            "speaker": "Mash Zahid & Layla Bouzoubaa",
-            "description": "Leveraging GCP with BigQuery and TensorFlow 2.0 model dev pipelines for an Utilities CRM engagement for building an end-to-end model that also compares against an H2O ensemble model run, walk-through of Colab notebook.\n"
+            "speaker": "Layla Bouzoubaa & Mash Zahid",
+            "description": "Predicting Cardiovascular Disease - An End-to-End Data Science Pipeline in the Google Cloud Platform\n"
           }
         ]
       },

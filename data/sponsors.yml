@@ -47,3 +47,9 @@ bronze:
     link: https://girlswhocode.com/
     logo: /static/gwc.jpg
     width: 250px
+
+  - id: mcm  
+    name: Miami Corporate Massage LLC
+    link: www.miamicmassage.com
+    logo: /static/mcm.png
+    width: 250px

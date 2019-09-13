@@ -39,7 +39,7 @@ export default () => (
 
     <Section color="green">
       <h1>September 28, 2019</h1>
-      <p>DevFest Miami is a single-day, single-track, inclusive conference for all developers. GDG Cloud Miami, GDG Miami, and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our annual DevFest at the Wix.com offices in South Beach!</p>
+      <p>DevFest Miami is a single-day, three-track, inclusive conference for all developers. GDG Cloud Miami, GDG Miami, and Women Techmakers Miami invite you to join us on Saturday, September 28, 2019 for our annual DevFest at the Wix.com offices in South Beach!</p>
       <p className="cta">
         <AnchorButton color='white/green' href="https://www.eventbrite.com/e/devfest-miami-2019-tickets-68635601933?aff=ehomesaved" target="_blank" rel="noopener noreferrer">Register now</AnchorButton>
       </p>
