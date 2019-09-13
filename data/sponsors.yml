@@ -23,6 +23,12 @@ silver:
     link: https://wix.com
     logo: /static/wix.png
     width: 270px
+
+  - id: cbl  
+    name: Cobuild Lab
+    link: https://cobuildlab.com
+    logo: /static/cbl.png
+    width: 270px
 bronze:
   - id: getaround  
     name: Get Around

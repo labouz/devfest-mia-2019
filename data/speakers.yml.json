@@ -127,5 +127,15 @@
     "company": "MATRIX Labs",
     "linkedin": "https://www.linkedin.com/in/carlos-a-chacin/",
     "github": "Hermitter"
+  },
+  {
+    "id": "al",
+    "name": "Angel Lacret",
+    "image": "/static/al.jpg",
+    "bio": "Angel is a technical Product Manager. He is a Web and Mobile Developer using React,Django,Firebase and @8base. He is the founder of Cobuild Lab, a company aimed at promoting Customer Driven Development.",
+    "company": "Cobuild Lab",
+    "linkedin": "https://www.linkedin.com/in/alacret/",
+    "website": "www.cobuildlab.com",
+    "github": "alacret"
   }
 ]

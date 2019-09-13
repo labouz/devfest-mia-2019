@@ -16,8 +16,8 @@
   description: Confessions and advice from a web designer / developer / empath on his journey to becoming an accessibility expert.
 - id: 4
   date: 11:15 am
-  title: TBA
-  speaker: Keynote 2 - TBA!
+  title: Care Angel
+  speaker: Wolf Schlagman
   description: >
     
 - id: 5
@@ -42,10 +42,10 @@
             My experience in getting the Professional Data Engineer certification and how it has enhanced my life professionally.
         - id: A2
           date: 1:30 pm
-          title: Talk 2
-          speaker: TBA
+          title: Product Development with Google Firebase
+          speaker: Angel Lacret
           description: >
-            TBA
+            
         - id: A3
           date: 2:30 pm
           title: Building a CI/CD Pipeline With Cloud Run and Cloud Build
@@ -104,7 +104,7 @@
   date: 3:15 pm
   title: Raffle!
   description: >
-    The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase 1 (or many!) to increase your chances of winning one of several Google prizes!
+    The Girls Who Code Organization of South Florida will be selling raffle tickets to benefit their scholarship funds. Purchase as many as you'd like to increase your chances of winning one of several Google and sponsored prizes!
 - id: 9
   date: 3:30 - 5:00 pm
   title: Workshops
