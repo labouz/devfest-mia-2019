@@ -9,9 +9,12 @@
   blog: https://medium.com/accessibility-made-accessible
   linkedin: https://www.linkedin.com/in/claudioluisvera/
 
-- id: kn-2
-  name: Keynote 2 TBA!
-  image: /static/bot.jpg
-  title: TBA
-  bio: This cute bot will be a Keynote to be announced very soon! 
-  company: Stay Tuned!
+- id: wolf
+  name: Wolf Shlagman, CEO, Founder, Chief Angel
+  image: /static/ws.jpeg
+  title: 
+  bio: Wolf Shlagman, a life-long creative technologist, healthcare futurist and cognitive science evangelist, is currently CEO/Founder of Care Angel. As a serial entrepreneur, Wolf previously founded Consult a Doctor, which was acquired by Teladoc, Inc., a Kliener, Perkins portfolio company, in 2013. Wolf is an innovator that has been shaping and transforming the telehealth space since the earliest days of digital health, nearly 20 years ago. He is a technology and business leader with executive level strategic, technical and partnership development experience.  He is recognized as being a hands-on leader who is driven by passion in the pursuit of building impactful, enterprise platforms and consumer solutions targeted to help alleviate the most pressing challenges affecting the entire healthcare ecosystem. Wolf considers himself a professional tinkerer, an AI addict and a behavioral economics fanatic with a demonstrated history of success.
+  company: Care Angel
+  website: www.careangel.ai
+  linkedin: https://linkedin.com/company/careangel
+  twitter: mycareangel
