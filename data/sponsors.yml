@@ -57,5 +57,5 @@ bronze:
   - id: mcm  
     name: Miami Corporate Massage LLC
     link: https://miamicorporatemassage.com/
-    logo: /static/mcm.png
+    logo: /static/mcm.PNG
     width: 250px
