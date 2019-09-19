@@ -50,6 +50,13 @@
       "width": "200px"
     },
     {
+      "id": "rl",
+      "name": "R-Ladies Miami",
+      "link": "https://www.meetup.com/rladies-miami/",
+      "logo": "/static/rl.png",
+      "width": "200px"
+    },
+    {
       "id": "wtm",
       "name": "Women Techmakers",
       "link": "https://www.womentechmakers.com/",
@@ -73,8 +80,8 @@
     {
       "id": "mcm",
       "name": "Miami Corporate Massage LLC",
-      "link": "www.miamicmassage.com",
-      "logo": "/static/mcm.png",
+      "link": "https://miamicorporatemassage.com/",
+      "logo": "/static/mcm.PNG",
       "width": "250px"
     }
   ]

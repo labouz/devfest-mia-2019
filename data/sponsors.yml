@@ -36,6 +36,12 @@ bronze:
     logo: /static/ga.png
     width: 200px
 
+  - id: rl  
+    name: R-Ladies Miami
+    link: https://www.meetup.com/rladies-miami/
+    logo: /static/rl.png
+    width: 200px
+
   - id: wtm  
     name: Women Techmakers
     link: https://www.womentechmakers.com/
