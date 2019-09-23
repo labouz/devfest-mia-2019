@@ -56,7 +56,7 @@ export const Navbar = () => {
         <NavLinks>
           <Link passHref href="/"><StyledLink>Home</StyledLink></Link>
           <Link passHref href="/#speakers"><StyledLink>Speakers</StyledLink></Link>
-          <Link passHref href="/#schedule"><StyledLink>Talks</StyledLink></Link>
+          <Link passHref href="/#schedule"><StyledLink>Schedule</StyledLink></Link>
           <Link passHref href="/#sponsors"><StyledLink>Sponsors</StyledLink></Link>
           <Link passHref href="/location"><StyledLink>Location</StyledLink></Link>
           <Link passHref href="/conduct"><StyledLink>Code of Conduct</StyledLink></Link>

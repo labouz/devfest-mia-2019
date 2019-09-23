@@ -115,18 +115,9 @@
     "id": "br",
     "name": "Brandon Roberts",
     "image": "/static/br.jpg",
-    "bio": "Software Engineer at Chewy",
-    "company": "Chewy",
+    "bio": "A tech enthusiast at heart, Brandon enjoys developing for just about anything, from web, games, mobile, AR/VR, IoT, and whatever else comes out in the future. Simply put, he loves coding!",
+    "company": "Ultimate Software",
     "linkedin": "https://www.linkedin.com/in/brandon-roberts-57480476/"
-  },
-  {
-    "id": "cc",
-    "name": "Carlos Chacin",
-    "image": "/static/cc.jpg",
-    "bio": "Loves learning in his free time, Carlos make tools, guides, documentation, and live tutorials.",
-    "company": "MATRIX Labs",
-    "linkedin": "https://www.linkedin.com/in/carlos-a-chacin/",
-    "github": "Hermitter"
   },
   {
     "id": "al",
@@ -137,5 +128,31 @@
     "linkedin": "https://www.linkedin.com/in/alacret/",
     "website": "www.cobuildlab.com",
     "github": "alacret"
+  },
+  {
+    "id": "cc",
+    "name": "Carlos Chacin",
+    "image": "/static/cc.jpg",
+    "bio": "Software developer for MATRIX Labs. Works on maintaining documentation, providing higher level abstractions, and creating video tutorials. Deeply enjoys wiping his entire computer for any pretty looking Linux distro and pushing everyone to try trackball mice- it's the future!",
+    "company": "MATRIX Labs",
+    "linkedin": "https://www.linkedin.com/in/carlos-a-chacin/",
+    "github": "Hermitter"
+  },
+  {
+    "id": "si",
+    "name": "Samreen Islam",
+    "image": "/static/si.jpeg",
+    "bio": "Community Manager at MATRIX Labs. Helps developers with troubleshooting, manages public relations, strategies, and works in development whenever possible to satiate the inner pursuit of learning new things! Doubles as a mechanical engineer from UVA w/ a penchant for design thinking, robotics, & writing cheesy poems.",
+    "company": "MATRIX Labs",
+    "linkedin": "https://www.linkedin.com/in/samreen-f-islam",
+    "github": "samreenislam"
+  },
+  {
+    "id": "ag",
+    "name": "Alfred Gonzalez",
+    "image": "/static/ag.png",
+    "bio": "Alfred is the Innovation Manager at MATRIX Labs and AdMobilize. His main focus is in Operations and Marketing but as a swiss army knife he tends to wear many other hats. He taught himself how to program at the age of 10 and has an immense passion for technology. In his free time he can be seen cycling or at home designing, 3D printing, and programming a new smart home project.",
+    "company": "AdMobilize & MATRIX Labs",
+    "linkedin": "https://www.linkedin.com/in/alfred-gonzalez-cuzan-03559394"
   }
 ]
