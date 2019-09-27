@@ -72,9 +72,9 @@
           {
             "id": "B1",
             "date": "1:00 pm",
-            "title": "Machine Learning Applications within the Airlines Industry Using Google BigQuery",
+            "title": "Machine Learning Applications Within the Airlines Industry",
             "speaker": "Kimoy Kotun",
-            "description": " I'll give a brief overview of spirit airlines and how we use data analytics. I'll then review a use case of bigquery ML with the Python client using public airline data."
+            "description": "A classification problem to predict if a passenger will purchase a bag using Python modules."
           },
           {
             "id": "B2",
