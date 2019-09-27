@@ -20,7 +20,7 @@
     "id": "kk",
     "name": "Kimoy Kotun",
     "image": "/static/kk3.jpg",
-    "bio": "Kimoy's background is in Mathematics. She has been working as a Data Scientist for over a year. She enjoys using data to solve problems.",
+    "bio": "Kimoy currently works as a Data Specialist at Spirit Airlines. She holds hold an undergraduate and Masters degree in Mathematics. Kimoy started her career in the Revenue Management Group at Spirit and, within the last year and a half, developed a keen interest in the Data Science space as she saw this as an opportunity to hone in and grow her statistical expertise and programming skills. She is a self-taught R and Python. She heavily uses the former on a daily basis for data analytics. She enjoys using data to solve problems.",
     "company": "Spirit Airlines",
     "linkedin": "gathttps://www.linkedin.com/in/kimoy-williams-kotun-405714a4sbyjs"
   },
@@ -107,9 +107,10 @@
     "id": "sb",
     "name": "Dr. Stephen Borstelmann",
     "image": "/static/sb.jpg",
-    "bio": "Ivy-educated Interventional Radiologist Physician / former Investment Banker & Quantitative Analyst at home in the operating room, AI lab, or boardroom. Stephan is a physician who understand the strategic, operational, and financial business needs of provider and insurer.",
+    "bio": "Stephen M. Borstelmann MD is an interventional radiologist and former Goldman options trader who is an avid promoter of deep learning in the medical imaging community. He is researching and publishing interests are: reproducible training, data augmentation, and class imbalances. He codes R, Python and Tensorflow.  You can find him hanging around the South Florida Data Science community and on twitter generally making a nuisance of himself.",
     "company": "Stephen M Borstelmann MD",
-    "linkedin": "https://www.linkedin.com/in/stephenborstelmann/"
+    "linkedin": "https://www.linkedin.com/in/stephenborstelmann/",
+    "twitter": "drsxr"
   },
   {
     "id": "br",

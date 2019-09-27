@@ -43,6 +43,13 @@
   ],
   "bronze": [
     {
+      "id": "chewy",
+      "name": "Chewy",
+      "link": "https://www.getaround.com/",
+      "logo": "/static/chewy.png",
+      "width": "200px"
+    },
+    {
       "id": "getaround",
       "name": "Get Around",
       "link": "https://www.getaround.com/",
