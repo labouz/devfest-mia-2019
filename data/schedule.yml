@@ -44,7 +44,8 @@
           date: 1:30 pm
           title: Product Development with Google Firebase
           speaker: Angel Lacret
-          description: >
+          description: > 
+          Build a React Application with Google Firebase. Authentication, Database Access, Email notifications and Payment Integrations.
             
         - id: A3
           date: 2:30 pm
@@ -60,18 +61,21 @@
           title: An Overview of Machine Learning and its Applications 
           speaker: Kimoy Kotun
           description: >
+            I'll give a brief overview of spirit airlines and how we use data analytics. I'll then review a use case of bigquery ML with the Python client using public airline data.
            
         - id: B2
           date: 1:30 pm
           title: Machine Learning using Radiology Imaging
           speaker: Dr.Stephen Borstelmann
           description: >
+            Medical deep learning using google Colab – practical considerations (or So you want to create an AI radiologist?)
             
         - id: B3
           date: 2:30 pm
           title: Is it a Fire Pokemon or a Water Pokemon? Logistic Regression in Python
           speaker: Viviana Marquez, MSc.
           description: >
+            In this talk we will learn about Logistic Regression in Machine Learning, what kind of problems we can solve with it, and how to overcome its main challenges. There will be a live demo to follow along with.
 
     - name: Web/App Development
       id: C
