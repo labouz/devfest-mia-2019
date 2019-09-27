@@ -125,7 +125,7 @@
         - id: B1
           date: 3:30 pm
           title: IoT pt. 1 - Augmenting the Google Assistant with the MATRIX Creator
-          speaker: Carlos Chacin
+          speaker: Alfred Gonzalez, Carlos Chacin & Samreen Islam
           description: >
             Learn to set up Google Assistant on your MATRIX device. Interface with sensors and NFC!
         - id: B2
