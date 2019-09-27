@@ -4,7 +4,7 @@ import theme from '../theme'
 
 const SectionContainer = styled.section`
   ${props => props.color === 'blue' && css`
-    background-color: ${theme.colors.blue};
+    background-color: #4268f4;
     color: white;
   `}
 
@@ -46,9 +46,10 @@ const Section = ({skyline, children, color}) => {
   }
 
   return (
-    <SectionContainer color={color}>
-      <InnerSection>{children}</InnerSection>
-    </SectionContainer>)
+      <SectionContainer color={color}>
+        <InnerSection>{children}</InnerSection>
+      </SectionContainer>
+      )
 }
 
 export default Section
