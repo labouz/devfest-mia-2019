@@ -8,28 +8,28 @@
   {
     "id": 2,
     "date": "10:00 am",
-    "title": "Welcome Address",
+    "title": "Welcome Address -- Room: Stingray",
     "speaker": "GDG Cloud Miami & GDG Miami & GWC SoFlo",
     "description": "Welcome to DevFest Miami 2019! During this time, we will do introductions and go over the logistics for the day."
   },
   {
     "id": 3,
     "date": "10:15 am",
-    "title": "Building Apps Like You Mean It - How to make sure that everyone can use your product, regardless of ability.",
+    "title": "Building Apps Like You Mean It: How to make sure that everyone can use your product, regardless of ability -- Room: Stingray",
     "speaker": "Claudio Luis Vera",
     "description": "Confessions and advice from a web designer / developer / empath on his journey to becoming an accessibility expert."
   },
   {
     "id": 4,
     "date": "11:15 am",
-    "title": "Care Angel",
+    "title": "Care Angel -- Room: Stingray",
     "speaker": "Wolf Schlagman",
     "description": "How AI-Powered Nurse & Health Assistants Will rEVOLutionize A Reactive Sick->Care System into Proactive Health->Care system.\nReImagining How We Care @ Scale with the Digital Workforce of Tomorrow."
   },
   {
     "id": 5,
     "date": "12:15 pm",
-    "title": "Mingle Lunch",
+    "title": "Mingle Lunch -- Room: Galley",
     "description": "Enjoy a healthy lunch sponsored Sylvester Comprehensive Cancer Center while mingling with other attendees and speakers."
   },
   {
@@ -39,7 +39,7 @@
     "description": "Attend a talk in one of three tracks! There will be a coffee & networking break after speaker 2 - between 2:05-2:25 pm.",
     "tracks": [
       {
-        "name": "Google Cloud Platform (GCP)",
+        "name": "Google Cloud Platform (GCP) -- Room: Stingray",
         "id": "A",
         "talks": [
           {
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "name": "Data Science",
+        "name": "Data Science -- Room: Everglades",
         "id": "B",
         "talks": [
           {
@@ -93,7 +93,7 @@
         ]
       },
       {
-        "name": "Web/App Development",
+        "name": "Web/App Development -- Room: Hibiscus",
         "id": "C",
         "talks": [
           {
@@ -124,7 +124,7 @@
   {
     "id": 7,
     "date": "2:05 pm - 2:25 pm",
-    "title": "Coffee and Refreshment Break!",
+    "title": "Coffee and Refreshment Break! -- Room: Galley",
     "description": "Enjoy and coffee, healthy snacks, and networking courtesy of Wix.com"
   },
   {
@@ -140,7 +140,7 @@
     "description": "Attend one of the three hands-on 90 - minute workshops below!",
     "tracks": [
       {
-        "name": "Google Cloud Platform (GCP)",
+        "name": "Google Cloud Platform (GCP) -- Room: Everglades",
         "id": "A",
         "talks": [
           {
@@ -153,7 +153,7 @@
         ]
       },
       {
-        "name": "IoT",
+        "name": "IoT with Matrix Labs -- Room: Hibiscus",
         "id": "B",
         "talks": [
           {
@@ -173,7 +173,7 @@
         ]
       },
       {
-        "name": "#IamRemarkable",
+        "name": "#IamRemarkable -- Room: Flamingo",
         "id": "C",
         "talks": [
           {
@@ -190,13 +190,13 @@
   {
     "id": 10,
     "date": "4:00pm",
-    "title": "Happy Hour Begins!",
+    "title": "Happy Hour Begins! -- Room: Galley/Stingray",
     "description": "For those not interested in attending a workshop, stay and socialize/network with your new DevFest friends over some drinks and light hors d'oeuvres :)\n"
   },
   {
     "id": 11,
     "date": "5:00pm",
-    "title": "Closing Remarks",
+    "title": "Closing Remarks -- Room: Stingray",
     "description": "Closing remarks by GDG Cloud Miami, GDG Miami, and Wix.com. Happy Hour until 6pm!\n"
   }
 ]
