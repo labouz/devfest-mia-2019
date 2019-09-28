@@ -45,7 +45,7 @@
           title: Product Development with Google Firebase
           speaker: Angel Lacret
           description: > 
-          Build a React Application with Google Firebase. Authentication, Database Access, Email notifications and Payment Integrations.
+            Build a React Application with Google Firebase. Authentication, Database Access, Email notifications and Payment Integrations.
             
         - id: A3
           date: 2:30 pm
