@@ -5,13 +5,13 @@
     Find our volunteers at the registration table, get a badge and a schedule, and join us for a scrumptious breakfast! Those who wish to participate in the "#IamRemarkable" Workshop must sign up at registration as space is limited.
 - id: 2
   date: 10:00 am
-  title: Welcome Address
+  title: "Welcome Address -- Room: Stingray"
   speaker: GDG Cloud Miami & GDG Miami & GWC SoFlo
   description: >
     Welcome to DevFest Miami 2019! During this time, we will do introductions and go over the logistics for the day.
 - id: 3
   date: 10:15 am
-  title: Building Apps Like You Mean It - How to make sure that everyone can use your product, regardless of ability.
+  title: "Building Apps Like You Mean It: How to make sure that everyone can use your product, regardless of ability -- Room: Stingray"
   speaker: Claudio Luis Vera
   description: Confessions and advice from a web designer / developer / empath on his journey to becoming an accessibility expert.
 - id: 4
